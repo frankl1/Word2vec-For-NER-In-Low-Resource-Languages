@@ -1,0 +1,90 @@
+T1	Person 88 93	Peter
+T2	Person 98 102	John
+T3	Hour 158 168	ninth hour
+T4	Location 354 368	Beautiful Gate
+T5	Person 579 584	Peter
+T6	Person 589 593	John
+T7	Person 736 741	Peter
+T8	Person 775 779	John
+T9	Person 1017 1022	Peter
+T10	Person 1106 1118	Jesus Christ
+T11	Location 1122 1130	Nazareth
+T12	Person 34 40	Petrus
+T13	Person 45 53	Yohannes
+T14	Misc 1606 1609	God
+T15	Misc 1757 1760	God
+T16	Person 171 177	Petrus
+T17	Person 182 190	Yohannes
+T18	Location 1858 1872	Beautiful Gate
+T19	Person 2115 2120	Peter
+T20	Person 2131 2138	Solomon
+T21	Person 2210 2215	Peter
+T22	Person 2220 2224	John
+T23	Person 2304 2311	Solomon
+T24	Person 2463 2468	Peter
+T25	Location 2509 2515	Israel
+T26	Misc 2831 2834	God
+T27	Person 2838 2845	Abraham
+T28	Misc 2851 2854	God
+T29	Person 2858 2863	Isaac
+T30	Misc 2873 2876	God
+T31	Person 2880 2885	Jacob
+T32	Misc 2891 2894	God
+T33	Person 2933 2938	Jesus
+T34	Person 2994 3000	Pilate
+T35	Misc 3420 3423	God
+T36	Hour 226 236	mëwola ebu
+T37	Person 3665 3670	Jesus
+T38	Misc 4090 4093	God
+T39	Location 509 517	Abëṅ mbè
+T40	Misc 4146 4152	Christ
+T41	Person 663 669	Petrus
+T42	Person 674 682	Yohannes
+T43	Person 810 816	Petrus
+T44	Misc 4478 4482	Lord
+T45	Misc 4509 4515	Christ
+T46	Person 4535 4540	Jesus
+T47	Misc 4705 4708	God
+T48	Person 839 847	Yohannes
+T49	Misc 4898 4906	Lord God
+T50	Person 4881 4886	Moses
+T51	Person 1152 1158	Petrus
+T52	Person 5366 5372	Samuel
+T53	Person 1240 1253	Yesus Kristus
+T54	Location 1258 1265	Nazaret
+T55	Person 5632 5639	Abraham
+T56	Misc 5861 5864	God
+T57	Misc 1698 1703	Zamba
+T58	Misc 1801 1806	Zamba
+T59	Location 2021 2024	mbè
+T60	Person 2150 2156	Petrus
+T61	Person 2180 2187	Salomon
+T62	Person 2329 2335	Petrus
+T63	Person 2339 2347	Yohannes
+T64	Person 2424 2431	Salomon
+T65	Person 2632 2638	Petrus
+T66	Location 2681 2687	Israel
+T67	Misc 2815 2820	Zamba
+T68	Misc 3039 3044	Zamba
+T69	Person 3045 3052	Abraham
+T70	Misc 3056 3061	Zamba
+T71	Person 3062 3067	Isaak
+T72	Misc 3071 3076	Zamba
+T73	Person 3077 3082	Yakob
+T74	Misc 3084 3089	Zamba
+T75	Person 3111 3116	Yesus
+T76	Person 3177 3184	Pilatus
+T77	Misc 3502 3507	Zamba
+T78	Misc 4195 4200	Zamba
+T79	Misc 4245 4252	Kristus
+T80	Misc 4574 4577	Nti
+T81	Misc 4605 4612	Kristus
+T82	Person 4613 4618	Yesus
+T83	Misc 4811 4816	Zamba
+T84	Person 5019 5024	Moses
+T85	Misc 5041 5050	Nti Zamba
+T86	Person 5471 5477	Samuel
+T87	Misc 5762 5767	Zamba
+T88	Misc 5594 5597	God
+T89	Person 5794 5801	Abraham
+T90	Misc 5997 6002	Zamba
