@@ -1,0 +1,182 @@
+T1	Person 24 34	Theophilus
+T2	Person 581 591	Theophilus
+T3	Person 36 41	Lukas
+T4	Person 852 868	John the Baptist
+T5	Person 62 68	Teofil
+T6	Person 952 957	Herod
+T7	Location 967 972	Judea
+T8	Person 999 1008	Zechariah
+T9	Person 710 716	Teofil
+T10	Person 1029 1035	Abijah
+T11	Misc 1316 1319	God
+T12	Misc 1385 1389	Lord
+T13	Person 1523 1532	Elizabeth
+T14	Misc 1712 1715	God
+T15	Person 916 933	Yohannes Ndu-Bodo
+T16	Person 1132 1139	Herodes
+T17	Misc 1942 1946	Lord
+T18	Person 1158 1163	Yudea
+T19	Misc 2214 2218	Lord
+T20	Person 2352 2361	Zechariah
+T21	Person 1193 1201	Zakarias
+T22	Person 2528 2537	Zechariah
+T23	Person 2585 2594	Elizabeth
+T24	Person 2644 2648	John
+T25	Person 1251 1256	Aaron
+T26	Misc 2978 2982	Lord
+T27	Person 1266 1274	Elisabet
+T28	Location 3262 3268	Israel
+T29	Misc 3276 3280	Lord
+T30	Misc 3287 3290	God
+T31	Person 3401 3407	Elijah
+T32	Location 1218 1222	Obia
+T33	Person 3715 3724	Zechariah
+T34	Misc 1429 1434	Zamba
+T35	Person 3973 3980	Gabriel
+T36	Misc 4009 4012	God
+T37	Person 1605 1613	Elisabet
+T38	Person 4548 4557	Zechariah
+T39	Misc 1808 1813	Zamba
+T40	Person 5134 5143	Elizabeth
+T41	Misc 2022 2027	Zamba
+T42	Misc 5309 5313	Lord
+T43	Misc 2284 2287	Nti
+T44	Person 5476 5481	Jesus
+T45	Person 2418 2426	Zakarias
+T46	Person 5540 5553	angel Gabriel
+T47	Person 2688 2696	Zakarias
+T48	Misc 5568 5571	God
+T49	Person 2739 2747	Elisabet
+T50	Location 5585 5592	Galilee
+T51	Person 2781 2789	Yohannes
+T52	Location 5599 5607	Nazareth
+T53	Person 5744 5750	Joseph
+T54	Person 5768 5773	David
+T55	Misc 3124 3127	Nti
+T56	Misc 3182 3195	Mfufub Nsisim
+T57	Misc 5991 5995	Lord
+T58	Person 6312 6316	Mary
+T59	Misc 6348 6351	God
+T60	Person 6510 6515	Jesus
+T61	Person 3327 3336	Nti Zamba
+T62	Person 3555 3564	Nti Zamba
+T63	Misc 3059 3070	Holy Spirit
+T64	Person 3600 3605	Elias
+T65	Misc 3680 3683	Nti
+T66	Person 4107 4114	Gabriel
+T67	Misc 4130 4135	Zamba
+T68	Person 4628 4636	Zakarias
+T69	Person 5801 5805	Mary
+T70	Misc 4678 4683	Zamba
+T71	Misc 4928 4933	Zamba
+T72	Person 5241 5249	Elisabet
+T73	Misc 6618 6638	Son of the Most High
+T74	Misc 5405 5408	Nti
+T75	Misc 6648 6656	Lord God
+T76	Person 6699 6704	David
+T77	Person 6849 6854	Jacob
+T78	Person 5507 5512	Yesus
+T79	Person 6996 7000	Mary
+T80	Misc 7167 7178	Holy Spirit
+T81	Misc 5630 5635	Zamba
+T82	Person 5644 5658	englès Gabriel
+T83	Misc 7220 7229	Most High
+T84	Location 5670 5677	Galilea
+T85	Misc 7306 7316	Son of God
+T86	Location 5686 5693	Nazaret
+T87	Person 7500 7509	Elizabeth
+T88	Person 5857 5862	Yosef
+T89	Misc 7762 7765	God
+T90	Person 5879 5884	David
+T91	Person 5920 5925	Maria
+T92	Person 7827 7831	Mary
+T93	Misc 7873 7874	r
+T94	Misc 6070 6073	Nti
+T95	Person 8043 8052	Elizabeth
+T96	Person 8031 8035	Mary
+T97	Person 6390 6395	Maria
+T98	Person 8095 8099	Mary
+T99	Misc 6414 6417	Nti
+T100	Person 6566 6571	Yesus
+T101	Person 8162 8167	Judah
+T102	Person 8280 8289	Zechariah
+T103	Person 8302 8311	Elizabeth
+T104	Misc 6758 6767	Nti Zamba
+T105	Person 8372 8381	Elizabeth
+T106	Person 8404 8408	Mary
+T107	Person 6922 6927	Yakob
+T108	Person 6801 6806	David
+T109	Person 8447 8448	a
+T110	Person 7062 7067	Maria
+T111	Misc 8473 8485	Holy Spirit,
+T112	Misc 7347 7360	Mfufub Nsisim
+T113	Misc 7462 7467	Zamba
+T114	Person 7633 7641	Elisabet
+T115	Misc 7811 7816	Zamba
+T116	Person 7952 7957	Maria
+T117	Misc 7977 7980	Nti
+T118	Person 8054 8059	Maria
+T119	Person 8068 8076	Elisabet
+T120	Person 8185 8190	Maria
+T121	Location 8240 8244	Yuda
+T122	Person 8331 8339	Zakarias
+T123	Person 8347 8355	Elisabet
+T124	Person 8506 8514	Elisabet
+T125	Person 8534 8539	Maria
+T126	Person 8571 8579	Elisabet
+T127	Misc 8589 8602	Mfufub Nsisim
+T128	Misc 8857 8861	Lord
+T129	Misc 8906 8909	Nti
+T130	Misc 9223 9227	Lord
+T131	Person 9301 9305	Mary
+T132	Misc 9268 9271	Nti
+T133	Misc 9334 9338	Lord
+T134	Person 9341 9346	Maria
+T135	Misc 9387 9390	God
+T136	Misc 9420 9423	Nti
+T137	Misc 9453 9458	Zamba
+T138	Location 10458 10464	Israel
+T139	Person 10585 10592	Abraham
+T140	Person 10848 10864	John the Baptist
+T141	Person 10917 10926	Elizabeth
+T142	Person 10654 10661	Abraham
+T143	Misc 11073 11077	Lord
+T144	Person 11314 11323	Zechariah
+T145	Location 10518 10524	Israel
+T146	Person 10766 10771	Maria
+T147	Person 11842 11846	John
+T148	Misc 12031 12034	God
+T149	Person 10873 10890	Yohannes ndu-bodo
+T150	Location 12222 12227	Judea
+T151	Person 10991 10999	Elisabet
+T152	Misc 12441 12445	Lord
+T154	Person 12577 12586	Zechariah
+T155	Person 12652 12661	Zechariah
+T156	Misc 12682 12693	Holy Spirit
+T153	Misc 11177 11180	Nti
+T157	Misc 12820 12828	Lord God
+T158	Location 12832 12838	Israel
+T159	Person 11406 11414	Zakarias
+T160	Person 13023 13028	David
+T161	Person 11510 11518	Yohannes
+T162	Person 13527 13534	Abraham
+T163	Misc 13934 13943	Most High
+T164	Person 11916 11924	Yohannes
+T165	Misc 13972 13976	Lord
+T166	Misc 12101 12106	Zamba
+T167	Misc 14269 14272	God
+T168	Location 12312 12317	Yudea
+T169	Location 14698 14704	Israel
+T170	Misc 12555 12558	Nti
+T171	Person 12615 12623	Zakarias
+T172	Person 12732 12740	Zakarias
+T173	Misc 12753 12766	Mfufub Nsisim
+T174	Misc 12893 12896	Nti
+T176	Person 13078 13083	David
+T177	Person 13565 13572	Abraham
+T175	Misc 12898 12903	Zamba
+T178	Location 12904 12910	Israel
+T179	Misc 14064 14067	Nti
+T180	Misc 14039 14050	mëdaṅa-yobo
+T181	Misc 14332 14337	Zamba
+T182	Location 14784 14790	Israel
